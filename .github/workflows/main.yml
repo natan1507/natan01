@@ -24,7 +24,6 @@ jobs:
         Invoke-WebRequest https://raw.githubusercontent.com/natan1507/natan01/main/programs/Growtopia.lnk -OutFile Growtopia.lnk
         Invoke-WebRequest https://raw.githubusercontent.com/natan1507/natan01/main/programs/Growtopia_Proxy.lnk -OutFile Growtopia_Proxy.lnk
         Invoke-WebRequest https://raw.githubusercontent.com/natan1507/natan01/main/programs/Teohook_Inject.lnk -OutFile Teohook_Inject.lnk
-        Invoke-WebRequest https://raw.githubusercontent.com/natan1507/natan01/main/programs/GABB.lnk -OutFile GABB.lnk
         Invoke-WebRequest https://raw.githubusercontent.com/natan1507/natan01/main/programs/Visual_Studio_2019.lnk -OutFile Visual_Studio_2019.lnk
         Invoke-WebRequest https://raw.githubusercontent.com/natan1507/natan01/main/programs/Node.js.lnk -OutFile Node.js.lnk
         Invoke-WebRequest https://raw.githubusercontent.com/natan1507/natan01/main/start.bat -OutFile start.bat
